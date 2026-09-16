@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivranjan-IN/leetcode/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivranjan-IN/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivranjan-IN/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivranjan-IN/leetcode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivranjan-IN/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivranjan-IN/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivranjan-IN/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivranjan-IN/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivranjan-IN/leetcode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivranjan-IN/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivranjan-IN/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivranjan-IN/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivranjan-IN/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivranjan-IN/leetcode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivranjan-IN/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivranjan-IN/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivranjan-IN/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -96,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivranjan-IN/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivranjan-IN/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
