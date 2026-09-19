@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shivranjan-IN/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shivranjan-IN/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shivranjan-IN/leetcode/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivranjan-IN/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Shivranjan-IN/leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivranjan-IN/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivranjan-IN/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Shivranjan-IN/leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
